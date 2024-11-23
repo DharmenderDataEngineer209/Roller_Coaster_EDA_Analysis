@@ -1,3 +1,6 @@
+
+![Screenshot (14)](https://github.com/user-attachments/assets/55752e0b-d868-4885-a12e-38f482ae39d3)
+
 ## Roller Coaster EDA Analysis
 
 ## Overview
